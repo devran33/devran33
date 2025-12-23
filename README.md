@@ -18,11 +18,10 @@
 
 <br />
 
-### 👨‍💻 Hakkımda
-
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
+      <h3>👨‍💻 Hakkımda</h3>
       
 ```python
 class Gelistirici:
@@ -34,19 +33,11 @@ class Gelistirici:
         # Bildiğin dilleri buraya ekleyebilirsin
         self.diller = ["Türkçe", "English"]
         
-        # Kullandığın teknolojileri buraya yaz
-        self.teknolojiler = [
-            "Python", 
-            "C#", 
-            "Java", 
-            "SQL"
-        ]
-        
-        # İlgi alanlarını buraya ekleyebilirsin
+        # Şu an odaklandığın alanlar
         self.ilgi_alanlari = [
-            "Yazılım Geliştirme",
-            "Açık Kaynak",
-            "Teknoloji"
+            "Backend Geliştirme",
+            "Mobil Uygulamalar",
+            "Veri Analizi"
         ]
 
     def merhaba_de(self):
@@ -54,3 +45,20 @@ class Gelistirici:
 
 ben = Gelistirici()
 ben.merhaba_de()
+</td>
+<td width="45%" valign="top" style="padding-left: 20px;">
+  <h3 align="center">🛠️ Kullandığım Teknolojiler</h3>
+  <div align="center">
+    
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <br/>
+    
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    
+  </div>
+</td>
+</tr> </table>
