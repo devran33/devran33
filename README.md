@@ -62,3 +62,7 @@ ben.merhaba_de()
   </div>
 </td>
 </tr> </table>
+<div align="center">
+  <p>Profilimi ziyaret ettiğin için teşekkürler!</p>
+  <img src="https://komarev.com/ghpvc/?username=devrandemir&style=flat-square&color=blue" alt="Profil Ziyaretçileri" />
+</div>
